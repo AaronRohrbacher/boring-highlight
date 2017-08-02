@@ -1,3 +1,8 @@
+.intro {
+  font-size: 20px;
+  color: pink;
+}
+
 h2.intro {
   font-size: 20px;
   color: pink;
@@ -11,4 +16,14 @@ p.intro {
 img.intro {
   font-size: 20px;
   color: pink;
+}
+
+.important {
+  font-size: 15px;
+  color: red;
+}
+
+.unimportant {
+  font-size: 10px;
+  color: blue;
 }
