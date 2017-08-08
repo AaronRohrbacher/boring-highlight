@@ -27,3 +27,9 @@ img.intro {
   font-size: 10px;
   color: blue;
 }
+
+.highlight {
+  background-color: yellow;
+  border-style: solid;
+  border-color: black;
+}
